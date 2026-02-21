@@ -9,28 +9,10 @@ Currently focusing on **Web Development, DSA, and AI-related concepts**.
 
 ## 🚀 About Me
 - 🌱 Currently learning **MERN Stack** & **Data Structures**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🤖 Building small projects to strengthen core concepts
 - 💡 Love solving problems on **LeetCode**
 - 📚 Always curious about how things work under the hood
 - 🎯 Goal: Become a confident and skilled software developer
-
----
-
-## 🛠️ Tech Stack
-**Languages**
-- C++
-- JavaScript
-- Python (Basics)
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-
-**Backend & Tools**
-- Node.js (Learning)
-- Git & GitHub
-- VS Code
 
 ---
 
@@ -40,15 +22,13 @@ Currently focusing on **Web Development, DSA, and AI-related concepts**.
 
 ---
 
-## 📊 GitHub Stats
-![Nini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nin1xi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nin1xi&layout=compact&theme=tokyonight)
+## ✨ Quote I Believe In
+> *"Consistency beats talent when talent doesn’t work hard."*
+>
 
 ---
 
-## ✨ Quote I Believe In
-> *"Consistency beats talent when talent doesn’t work hard."*
+⭐ Feel free to explore my repositories and follow my learning journey!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
