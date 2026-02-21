@@ -1,5 +1,54 @@
-<h1 align="center">Hi 👋, I'm Pooja Vishwakarma</h1>
-<h3 align="center">Aspiring Software Developer | Learning, Building & Growing</h3>
+# Hi there 👋, I'm Pooja Vishwakarma
+
+🎓 Engineering UnderGraduate | 💻 Aspiring Software Developer | 🤖 AI & Web Enthusiast  
+
+I’m passionate about building meaningful software and constantly learning new technologies.  
+Currently focusing on **Web Development, DSA, and AI-related concepts**.
+
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **MERN Stack** & **Data Structures**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💡 Love solving problems on **LeetCode**
+- 📚 Always curious about how things work under the hood
+- 🎯 Goal: Become a confident and skilled software developer
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- C++
+- JavaScript
+- Python (Basics)
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Backend & Tools**
+- Node.js (Learning)
+- Git & GitHub
+- VS Code
+
+---
+
+## 📌 Coding Profiles
+- 💻 **LeetCode**: https://leetcode.com/u/nin1xi/
+- 🐙 **GitHub**: https://github.com/nin1xi
+
+---
+
+## 📊 GitHub Stats
+![Nini's GitHub stats](https://github-readme-stats.vercel.app/api?username=nin1xi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nin1xi&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Quote I Believe In
+> *"Consistency beats talent when talent doesn’t work hard."*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
